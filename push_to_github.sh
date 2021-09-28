@@ -34,7 +34,7 @@ UWhite='\033[4;37m'       # White
 
 # git config --global user.name "woo-rookie"
 # git config --global user.email "1572914362@qq.com"
-
+# git config --global http.postbuffer 2097152000
 git init
 
 git add .
